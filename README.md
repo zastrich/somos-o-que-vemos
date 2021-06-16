@@ -10,7 +10,7 @@ versão brasileira: [Zastrich](https://github.com/zastrich)
 
 ## Jogar
 
-**[JOGAR EM PORTUGUÊS](https://ncase.itch.io/wbwwb)**
+**[JOGAR EM PORTUGUÊS](https://somosoquevemos.com.br/)**
 
 ### Outros idiomas
 **[PLAY (ENGLISH)](https://ncase.itch.io/wbwwb)** -- **[PLAY (Persian)](https://alexclay.itch.io/)**
