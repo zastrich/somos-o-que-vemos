@@ -61,10 +61,10 @@ function Scene_Post_Post_Credits(){
 
 	};
 	_addButton(250, 2, function(){
-		window.open("http://afzl95.github.io/");
+		window.open("https://ncase.me/projects/");
 	});
 	_addButton(480, 3, function(){
-		window.open("https://twitter.com/ali_fzl95");
+		window.open("https://ncase.me");
 	});
 	_addButton(710, 4, function(){
 		Game.sceneManager.gotoScene("Quote");

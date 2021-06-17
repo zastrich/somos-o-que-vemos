@@ -337,7 +337,7 @@ var textStrings_PTBR = {
 	"almostEveryoneHates": "O ÓDIO PARECE ESTAR SE GENERALIZANDO",
 	"squaresHateCircles": "CABEÇAS QUADRADAS ODEIAM OS REDONDOS",
 	"circlesHateSquares": "CABEÇAS REDONDAS ODEIAM OS QUADRADOS",
-	"areTheyYelling": "(nos traga um flagrande *gritando*)", // not used
+	"areTheyYelling": "(nos traga um flagrante *gritando*)", // not used
 	"nerdsNow": "o que esses nerds estão fazendo agora",
 	"schockedPeep": "porque essa pessoa paerce chocada?",
 	"whatever": "tanto faz",
@@ -349,11 +349,11 @@ var textStrings_PTBR = {
 
 	// MANIFESTO
 	"manifesto": [
-		"quem é que está *interessado em paz?*",
+		"falar de paz não dá prêmios em jornalismo",
 		"paz é chato, *violência* é que dá visualizações",
-		"não se constroem narrativas em cima da paz",
 		"ME TRAGA ALGUMA *DESGRAÇA*. LOGO!",
-		"falar de paz não dá prêmios em jornalismo"
+		"não se constroem narrativas em cima da paz",
+		"quem é que está *interessado em paz?*",
 	],
 
 	// -- Strings currently in graphics resources --

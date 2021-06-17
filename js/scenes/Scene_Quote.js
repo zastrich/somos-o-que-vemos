@@ -56,7 +56,7 @@ function Scene_Quote(){
     var q4Sprite = MakeSprite("quote0004");
     q4.addChild(q4Sprite);
     
-    var q4Text = new PIXI.Text(textStrings["misatrributed"] + "\n", {font:"33px RobotoCondensed", fill:"#FFFFFF", align:"center"});
+    var q4Text = new PIXI.Text(textStrings["misatrributed"] + "\n", {font:"18px RobotoCondensed", fill:"#FFFFFF", align:"center"});
     q4Text.anchor.x = 0.5;
     q4Text.anchor.y = 0.5;
     q4Text.x = Game.width / 2 + 4;

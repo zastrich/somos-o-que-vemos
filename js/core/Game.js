@@ -82,8 +82,8 @@ var modal_shade = document.getElementById("modal_shade");
 var paused = document.getElementById("paused");
 window.onblur = function(){
 	if(Game.scene && Game.scene.UNPAUSEABLE) return;
-	modal_shade.style.display = "block";
-	paused.style.display = "block";
+	modal_shade.style.display = "flex";
+	paused.style.display = "flex";
 	Game.paused = true;
 	Howler.mute(true);
 }
